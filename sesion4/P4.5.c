@@ -1,5 +1,5 @@
 /*Nombre: P4.5.c
- * Descripción: pide valores de los radios de una corona circular y nos muestra su areay perimetro
+ * Descripción: pide valores de los radios de una corona circular y nos muestra su area y perimetro
  *Autor: Jimena Arnaiz González
  *Fecha: 20/03/2022
  * */
