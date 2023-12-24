@@ -1,5 +1,4 @@
 /**
- *Nombre: 2a_conv.c
  *Autor:Jimena Arnaiz González
  *Descripción: Programa que muestra un menú en el que puedes elegir diferentes opciones.
  *Fcha: 12/06/2022
