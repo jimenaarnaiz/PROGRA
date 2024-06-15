@@ -1,5 +1,5 @@
 /**
- *Nombre: entregaf.c
+ *Nombre: Menu.c
  *Autor:Jimena Arnaiz González
  *Descripción: Programa que muestra un menú en el que puedes elegir diferentes opciones.
  *Fcha: 24/04/2022
